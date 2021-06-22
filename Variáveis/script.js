@@ -1,3 +1,4 @@
+// Exercícios
 // Declarar uma variável com o seu nome
 var nome = 'Simone';
 
